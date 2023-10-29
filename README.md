@@ -16,7 +16,7 @@ This project aim to be a framework that allow Meetstr to be extended and build u
 🧩 Meetstr components
 --------------------
 
-![Structure](./img/meetstr-structure.png)
+![Structure](./img/meetstr-components.png)
 
 Meetstr is divided in three parts:
 
@@ -32,7 +32,7 @@ As we can see, these three components have a clear role, and they can be swapped
 📜 Rules of Meetstr
 ------------------
 
-![Components](./img/meetstr-components.png)
+![Components](./img/meetstr-structure.png)
 
 To have a working system that is accessible for every person and hardware some assumptions where made:
 
@@ -106,4 +106,3 @@ Even if we implement most of the existing NIPs, not everything is achievable wit
 Meetstr is still in its designing phase and many parts aren't defined yet.
 
 If you have any idea, suggestion or want to contribute, you're free to do so in this repository.
-
